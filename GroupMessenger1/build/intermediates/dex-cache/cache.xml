@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA2-A/GroupMessenger1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="066e4d959b3f5d0cdef31c3a5cc98b41e2ae93fb">
+        <dex dex="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA2-A/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1903050c268bb1d6bdb6b513bbf0e0d264759202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA2-A/GroupMessenger1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="118ca950433fc86e89c4ee92a6d047ddb042ed82">
+        <dex dex="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA2-A/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run_069efdf293ff36d66f18aa36a6a8a37c949461d2.jar" />
+    </item>
+
+</items>

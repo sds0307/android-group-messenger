@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="ldpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1310886220465901"
+    token="7384890018980444535"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="225" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="74" />
+    <task
+        name="verifier"
+        duration="14" />
+
+    <artifact
+        location="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA1/SimpleMessenger/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1310886220465901"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA1/SimpleMessenger/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

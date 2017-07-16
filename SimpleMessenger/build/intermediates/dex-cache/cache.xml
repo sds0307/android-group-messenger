@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA1/SimpleMessenger/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="35520d1b802afa44199648ed41d5f66c3e7b980e">
+        <dex dex="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA1/SimpleMessenger/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_a34883b019a244a9faae6232e446bacf4d8f4a49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA1/SimpleMessenger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="daa93c6c33743e8faea2d4eec3b9fa132373bfd3">
+        <dex dex="/Users/sandeepshenoy/Box Sync/MS related docs/Courses/Spring 17/586-DS/Project/PA1/SimpleMessenger/app/build/intermediates/pre-dexed/debug/instant-run_c26ce95da9acf44b966ba9cd656a819ece8a6644.jar" />
+    </item>
+
+</items>
